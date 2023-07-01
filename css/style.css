@@ -42,3 +42,22 @@
   color: #000000;
   text-align: center;
 }
+
+
+.section {
+  background-color: antiquewhite;
+  padding: 50px;
+  margin-bottom: 30px;
+}
+
+.section-heading {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.back-to-top {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+}
